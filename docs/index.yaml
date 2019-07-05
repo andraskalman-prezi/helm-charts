@@ -62,6 +62,14 @@ entries:
     version: 0.1.0
   localstack:
   - apiVersion: v1
+    created: 2019-07-05T15:30:40.557836234+02:00
+    description: A Helm chart for localstack
+    digest: 0095d5b9af93417a5fbf480dc9a5f3e3e2af87212d5b38c248b5a7760a3b5dda
+    name: localstack
+    urls:
+    - https://everpeace.github.io/helm-charts/localstack-0.5.0.tgz
+    version: 0.5.0
+  - apiVersion: v1
     created: 2019-06-18T11:47:35.27767+02:00
     description: A Helm chart for localstack
     digest: 24acf241d0fb06073634ee820729466d472cf632a3f7aa3b1cc7d0043736e57c
@@ -77,4 +85,4 @@ entries:
     urls:
     - https://everpeace.github.io/helm-charts/localstack-0.1.0.tgz
     version: 0.1.0
-generated: 2019-06-18T11:47:35.274468+02:00
+generated: 2019-07-05T15:30:40.554169517+02:00
